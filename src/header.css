@@ -1,0 +1,28 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  animation: Background-colors infinite 10s;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+  font-family: tahoma;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(360deg); }
+  to { transform: rotate(0deg); }
+}
+
+@keyframes Background-colors {
+    0%   {background-color: #327F7F;}
+    25%  {background-color: #41588D;}
+    50%  {background-color: #43A943;}
+    100% {background-color: #327F7F;}
+}

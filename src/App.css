@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  margin: 0 a;
+}
+
+
+.Currencies {
+    font-family: tahoma;
+    margin: 0 auto;
+    width: 70%;
+}
+
+.Pay {
+    font-family: tahoma;
+    margin: 0 auto;
+    width: 70%;
+   	font-weight: bold;
+}
+
+.Calculator {
+	margin-top: 25px;
+}
+
+.Form {
+	margin-right: 0 auto;
+
+}
+
+#input {
+	margin-right: 0 auto;
+	border: none;
+	border: 1.5px solid #327F7F;
+	margin-top: 20px;
+}
