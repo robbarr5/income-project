@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+//import ExchangeRate from 'react-currency-conversion';
 
 
 import UsdValue from './UsdValue.js';
@@ -57,6 +58,8 @@ class Calculator extends React.Component {
     );
   }
 }
+
+
 
 
 export default Calculator;
